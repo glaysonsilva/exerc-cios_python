@@ -1,4 +1,4 @@
-N = int(input('Digite um valor: '))
+N = int(input())
 cont = 1
 while cont <= 10000:
     if N < 10000:
